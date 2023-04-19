@@ -1,35 +1,36 @@
-# Module-5-Challenge
+# Work Day Scheduler 
 
-05 Third-Party APIs: Work Day Scheduler
 
-## Task
-Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+## Description 
+ a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-You'll need to use the Day.js library to work with date and time. Be sure to read the documentation carefully and concentrate on using Day.js in the browser.
+## Table of Contents
 
-## User Story
+ [Installation](#Installation)
 
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
+    
+ [License](#License)
 
-## Acceptence Criteria
-GIVEN I am using a daily planner to create a schedule
+    
+ [Credits](#Credits)
 
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
+ [ScreenShots](#ScreenShots)
 
-WHEN I scroll down
-THEN I am presented with timeblocks for standard business hours
+    
+ [Questions](#Questions)
 
-WHEN I view the timeblocks for that day
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future
 
-WHEN I click into a timeblock
-THEN I can enter an event
+## Installation
+Just visit application at https://admarom.github.io/Workday-Scheduler/ to use application. Type in user-input and select save button. Data is saved to local storage on user's computer so when they bring up the page their data will be saved.
 
-WHEN I click the save button for that timeblock
-THEN the text for that event is saved in local storage
+## Contributing
+starter code: https://github.com/coding-boot-camp/crispy-octo-meme Github: ![GitHub] (https://github.com/Georgeyoo)
 
-WHEN I refresh the page
-THEN the saved events persist
+## ScreenShots
+
+![](./images/ScreenShot.png)
+
+
+## Questions
+
+Have questions? Email me at adenamarom@gmail.com or find me on ![GitHub] (https://github.com/AdMarom)!
